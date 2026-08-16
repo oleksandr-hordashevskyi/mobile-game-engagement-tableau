@@ -49,3 +49,11 @@ The product and game design teams needed granular visibility into player retenti
 ├── images/                      <- Dashboard screenshots & UI assets
 │   └── dashboard_preview.png
 └── README.md                    <- Analytical report & documentation
+```
+
+📬 Contact
+Author: Oleksandr Hordashevskyi
+
+LinkedIn: www.linkedin.com/in/oleksandr-hordashevskyi
+
+Email: o.hordashevskyi@gmail.com
